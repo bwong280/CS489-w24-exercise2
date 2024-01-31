@@ -1,0 +1,6 @@
+*.d
+*.o
+*.job
+*.jar
+*/target/*
+main
